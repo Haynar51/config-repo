@@ -6,7 +6,7 @@ eureka:
   instance:
     preferIpAddress: true
 server:
-  port: 8081
+  port: 8089
 
 spring:
   application:
